@@ -1,3 +1,2 @@
 Simple python maze solver.
-
-Solving directions not optimized to demonstrate backtracking
+![img](https://i.imgur.com/JXgwYPJ.png)
